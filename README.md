@@ -70,7 +70,7 @@ streamlit run app.py
 
 ## 🖼️ Demo
 
-![demo screenshot](Screenshot Simple ChatBot.png)
+![Simple ChatBot Demo](Screenshot%20Simple%20ChatBot.png)
 *A simple chat with Gemma 3 via Streamlit.*
 
 ---
@@ -90,6 +90,3 @@ streamlit run app.py
 * Make sure `ollama serve` is running in the background.
 * You can swap `gemma3:4b` with any Ollama-supported model.
 * For production, consider adding session memory and better UI.
-
-👉 Do you want me to also generate a **`requirements.txt`** for this project so you can just `pip install -r requirements.txt`?
-```
